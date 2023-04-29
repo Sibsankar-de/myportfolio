@@ -16,7 +16,7 @@ export const Home = () => {
                         <div className="profile-information-texts">
                             <p className="propf-info-line-1">HEY! I AM</p>
                             <h1 className="propf-info-line-2">Sibsankar De</h1>
-                            <h2 className="propf-info-line-3">I'm a <span className="txt-rotate px-2 border-right-0" data-period="2000" data-rotate="[ &quot;Web Designer.&quot;, &quot;Developer.&quot;, &quot;Photographer.&quot;, &quot;Marketer.&quot;, &quot;Blogger&quot; ]"><span className="wrap">Freelancer.</span></span></h2>
+                            <h2 className="propf-info-line-3">I'm a <span className="txt-rotate px-2 border-right-0" data-period="2000" data-rotate="[ &quot;Web Designer.&quot;, &quot;Developer.&quot;, &quot;Photographer.&quot;, &quot;Marketer.&quot;, &quot;Blogger&quot; ]"><span className="wrap">Frontend Developer.</span></span></h2>
                         </div>
                     </div>
                 </div>
